@@ -11,3 +11,4 @@
 - Cola - 7 zˆ 
 - Piwo - 10 zˆ 
 - Wino - 15 zˆ 
+"- Veggie Pizza - 22 zˆ" 
